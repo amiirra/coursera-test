@@ -8,7 +8,9 @@ wile( 1=1){
 return 1;
 
 }
-
+public static void main(){
+while (1==1){}
+}
 
 
 }
